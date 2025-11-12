@@ -1,0 +1,4 @@
+repository "dice/dice@18966925584088@cloud"
+  path "/"
+    br "/main"
+    co "/main"
